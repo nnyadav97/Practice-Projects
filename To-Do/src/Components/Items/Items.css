@@ -1,0 +1,24 @@
+.item-container {
+  background-color: white;
+}
+
+.Item-title {
+  opacity: 0.8;
+  font-weight: bold;
+  font-weight: 110%;
+  color: #2c2c2c;
+}
+.Item-content {
+  font-size: 90%;
+  opacity: 0.9;
+}
+.priority-level-container {
+  position: relative;
+  bottom: 0px;
+  height: 100%;
+  background-color: pink;
+}
+.priority-level-icons {
+  position: absolute;
+  bottom: 0px;
+}

@@ -1,0 +1,14 @@
+.round-button {
+  height: 45px;
+  width: 45px;
+  border-radius: 50%;
+  margin: 5px 20px;
+  float: right;
+  font-weight: bold;
+  font-size: 160%;
+}
+.roundbutton-content {
+  position: relative;
+  top: -18px;
+  left: -4px;
+}
