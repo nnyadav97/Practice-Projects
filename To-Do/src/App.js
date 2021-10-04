@@ -10,7 +10,7 @@ function App() {
   const tasks = [
     {
       id: 1,
-      name: "attend interview",
+      name: "Attend interview",
       discription:
         "tcs credibility test and interview for onboarding. tcs credibility test and interview for onboarding. tcs credibility test and interview for onboarding",
       date: new Date(),
@@ -19,7 +19,7 @@ function App() {
   ];
   tasks.push({
     id: 2,
-    name: "get a mobile from store",
+    name: "Get a mobile from store",
     discription: "ordered a mobile, get it from the store",
     date: new Date(),
     priorityLevel: 4,
